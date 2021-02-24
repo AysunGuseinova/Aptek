@@ -1,0 +1,9 @@
+C:\Users\Seymur\Desktop\BASE-1\aptek\aptek\bin\Debug\aptek.exe.config
+C:\Users\Seymur\Desktop\BASE-1\aptek\aptek\bin\Debug\aptek.exe
+C:\Users\Seymur\Desktop\BASE-1\aptek\aptek\bin\Debug\aptek.pdb
+C:\Users\Seymur\Desktop\BASE-1\aptek\aptek\obj\Debug\aptek.Form1.resources
+C:\Users\Seymur\Desktop\BASE-1\aptek\aptek\obj\Debug\aptek.Properties.Resources.resources
+C:\Users\Seymur\Desktop\BASE-1\aptek\aptek\obj\Debug\aptek.csproj.GenerateResource.Cache
+C:\Users\Seymur\Desktop\BASE-1\aptek\aptek\obj\Debug\aptek.exe
+C:\Users\Seymur\Desktop\BASE-1\aptek\aptek\obj\Debug\aptek.pdb
+C:\Users\Seymur\Desktop\BASE-1\aptek\aptek\obj\Debug\aptek.csprojResolveAssemblyReference.cache
